@@ -12,8 +12,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Separator {
-	private final static String READ_PATH = "src/csse_covid_19_daily_reports";
-	private final static String WRITE_PATH = "src/results";
+	private final static String READ_PATH = "src/data/csse_covid_19_data/csse_covid_19_daily_reports";
+	private final static String WRITE_PATH = "src/dataResult";
 	private final static String ISO = "8859_1";
 
 	private final static String READ_CSV_SPLITER = ",";
@@ -38,8 +38,8 @@ public class Separator {
 
 		File[] listOfFiles = folder.listFiles();
 
-		for (File file : listOfFiles) {
-			if (file.isFile()) {
+		for (File file: listOfFiles) {
+			if (file.isFile() && file.getName().contains(".csv")) {
 				List<List<String>> fileRows = trasform(file);
 				allFiles.add(fileRows);
 				writeCSV(file.getName(), fileRows);
