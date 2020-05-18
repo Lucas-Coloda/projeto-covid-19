@@ -1,0 +1,52 @@
+FIPS;Admin2;Province_State;Country_Region;Last_Update;Lat;Long_;Confirmed;Deaths;Recovered;Active;Combined_Key;
+0;Unassigned;Hubei;Mainland China;0022-03-01T23:59:00;0;0;1423;76;45;0;undefined
+0;Unassigned;Guangdong;Mainland China;0022-03-01T23:59:00;0;0;151;0;4;0;undefined
+0;Unassigned;Zhejiang;Mainland China;0022-03-01T23:59:00;0;0;128;0;1;0;undefined
+0;Unassigned;Henan;Mainland China;0022-03-01T23:59:00;0;0;128;1;0;0;undefined
+0;Unassigned;Chongqing;Mainland China;0022-03-01T23:59:00;0;0;110;0;0;0;undefined
+0;Unassigned;Hunan;Mainland China;0022-03-01T23:59:00;0;0;100;0;0;0;undefined
+0;Unassigned;Beijing;Mainland China;0022-03-01T23:59:00;0;0;80;1;2;0;undefined
+0;Unassigned;Shandong;Mainland China;0022-03-01T23:59:00;0;0;75;0;0;0;undefined
+0;Unassigned;Jiangxi;Mainland China;0022-03-01T23:59:00;0;0;72;0;2;0;undefined
+0;Unassigned;Anhui;Mainland China;0022-03-01T23:59:00;0;0;70;0;0;0;undefined
+0;Unassigned;Sichuan;Mainland China;0022-03-01T23:59:00;0;0;69;0;0;0;undefined
+0;Unassigned;Fujian;Mainland China;0022-03-01T23:59:00;0;0;59;0;0;0;undefined
+0;Unassigned;Shanghai;Mainland China;0022-03-01T23:59:00;0;0;53;1;3;0;undefined
+0;Unassigned;Jiangsu;Mainland China;0022-03-01T23:59:00;0;0;47;0;1;0;undefined
+0;Unassigned;Guangxi;Mainland China;0022-03-01T23:59:00;0;0;46;0;0;0;undefined
+0;Unassigned;Shaanxi;Mainland China;0022-03-01T23:59:00;0;0;35;0;0;0;undefined
+0;Unassigned;Hainan;Mainland China;0022-03-01T23:59:00;0;0;33;1;0;0;undefined
+0;Unassigned;Liaoning;Mainland China;0022-03-01T23:59:00;0;0;27;0;0;0;undefined
+0;Unassigned;Yunnan;Mainland China;0022-03-01T23:59:00;0;0;26;0;0;0;undefined
+0;Unassigned;Tianjin;Mainland China;0022-03-01T23:59:00;0;0;23;0;0;0;undefined
+0;Unassigned;Heilongjiang;Mainland China;0022-03-01T23:59:00;0;0;21;1;0;0;undefined
+0;Unassigned;Hebei;Mainland China;0022-03-01T23:59:00;0;0;18;1;0;0;undefined
+0;Unassigned;Gansu;Mainland China;0022-03-01T23:59:00;0;0;14;0;0;0;undefined
+0;Unassigned;Shanxi;Mainland China;0022-03-01T23:59:00;0;0;13;0;0;0;undefined
+0;Unassigned;Inner Mongolia;Mainland China;0022-03-01T23:59:00;0;0;11;0;0;0;undefined
+0;Unassigned;Hong Kong;Hong Kong;0022-03-01T23:59:00;0;0;8;0;0;0;undefined
+0;Unassigned;Guizhou;Mainland China;0022-03-01T23:59:00;0;0;7;0;0;0;undefined
+0;Unassigned;Ningxia;Mainland China;0022-03-01T23:59:00;0;0;7;0;0;0;undefined
+0;Unassigned;Jilin;Mainland China;0022-03-01T23:59:00;0;0;6;0;0;0;undefined
+0;Unassigned;Macau;Macau;0022-03-01T23:59:00;0;0;6;0;0;0;undefined
+0;Unassigned;Qinghai;Mainland China;0022-03-01T23:59:00;0;0;6;0;0;0;undefined
+0;Unassigned;Taiwan;Taiwan;0022-03-01T23:59:00;0;0;5;0;0;0;undefined
+0;Unassigned;Xinjiang;Mainland China;0022-03-01T23:59:00;0;0;5;0;0;0;undefined
+0;Unassigned;Washington;US;0022-03-01T23:59:00;0;0;1;0;0;0;undefined
+0;Unassigned;Illinois;US;0022-03-01T23:59:00;0;0;1;0;0;0;undefined
+0;Unassigned;California;US;0022-03-01T23:59:00;0;0;2;0;0;0;undefined
+0;Unassigned;Arizona;US;0022-03-01T23:59:00;0;0;1;0;0;0;undefined
+0;Unassigned;undefined;Japan;0022-03-01T23:59:00;0;0;4;0;1;0;undefined
+0;Unassigned;undefined;Thailand;0022-03-01T23:59:00;0;0;8;0;2;0;undefined
+0;Unassigned;undefined;South Korea;0022-03-01T23:59:00;0;0;4;0;0;0;undefined
+0;Unassigned;undefined;Singapore;0022-03-01T23:59:00;0;0;5;0;0;0;undefined
+0;Unassigned;undefined;Vietnam;0022-03-01T23:59:00;0;0;2;0;0;0;undefined
+0;Unassigned;undefined;France;0022-03-01T23:59:00;0;0;3;0;0;0;undefined
+0;Unassigned;undefined;Nepal;0022-03-01T23:59:00;0;0;1;0;0;0;undefined
+0;Unassigned;undefined;Malaysia;0022-03-01T23:59:00;0;0;4;0;0;0;undefined
+0;Unassigned;Ontario;Canada;0022-03-01T23:59:00;0;0;1;0;0;0;undefined
+0;Unassigned;undefined;Cambodia;0022-03-01T23:59:00;0;0;1;0;0;0;undefined
+0;Unassigned;undefined;Sri Lanka;0022-03-01T23:59:00;0;0;1;0;0;0;undefined
+0;Unassigned;undefined;Ivory Coast;0022-03-01T23:59:00;0;0;1;0;0;0;undefined
+0;Unassigned;New South Wales;Australia;0022-03-01T23:59:00;0;0;4;0;0;0;undefined
+0;Unassigned;Victoria;Australia;0022-03-01T23:59:00;0;0;1;0;0;0;undefined

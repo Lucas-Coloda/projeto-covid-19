@@ -1,0 +1,63 @@
+FIPS;Admin2;Province_State;Country_Region;Last_Update;Lat;Long_;Confirmed;Deaths;Recovered;Active;Combined_Key;
+0;Unassigned;Hubei;Mainland China;2022-07-01T23:59:00;0;0;5806;204;141;0;undefined
+0;Unassigned;Zhejiang;Mainland China;2022-07-01T23:59:00;0;0;538;0;14;0;undefined
+0;Unassigned;Guangdong;Mainland China;2022-07-01T23:59:00;0;0;436;0;11;0;undefined
+0;Unassigned;Henan;Mainland China;2022-07-01T23:59:00;0;0;352;2;3;0;undefined
+0;Unassigned;Hunan;Mainland China;2022-07-01T23:59:00;0;0;332;0;2;0;undefined
+0;Unassigned;Jiangxi;Mainland China;2022-07-01T23:59:00;0;0;240;0;7;0;undefined
+0;Unassigned;Anhui;Mainland China;2022-07-01T23:59:00;0;0;237;0;3;0;undefined
+0;Unassigned;Chongqing;Mainland China;2022-07-01T23:59:00;0;0;211;0;1;0;undefined
+0;Unassigned;Shandong;Mainland China;2022-07-01T23:59:00;0;0;184;0;2;0;undefined
+0;Unassigned;Sichuan;Mainland China;2022-07-01T23:59:00;0;0;177;1;1;0;undefined
+0;Unassigned;Jiangsu;Mainland China;2022-07-01T23:59:00;0;0;168;0;5;0;undefined
+0;Unassigned;Beijing;Mainland China;2022-07-01T23:59:00;0;0;139;1;5;0;undefined
+0;Unassigned;Shanghai;Mainland China;2022-07-01T23:59:00;0;0;135;1;9;0;undefined
+0;Unassigned;Fujian;Mainland China;2022-07-01T23:59:00;0;0;120;0;0;0;undefined
+0;Unassigned;Guangxi;Mainland China;2022-07-01T23:59:00;0;0;87;0;2;0;undefined
+0;Unassigned;Shaanxi;Mainland China;2022-07-01T23:59:00;0;0;87;0;0;0;undefined
+0;Unassigned;Yunnan;Mainland China;2022-07-01T23:59:00;0;0;83;0;1;0;undefined
+0;Unassigned;Hebei;Mainland China;2022-07-01T23:59:00;0;0;82;1;0;0;undefined
+0;Unassigned;Heilongjiang;Mainland China;2022-07-01T23:59:00;0;0;59;2;0;0;undefined
+0;Unassigned;Hainan;Mainland China;2022-07-01T23:59:00;0;0;52;1;1;0;undefined
+0;Unassigned;Liaoning;Mainland China;2022-07-01T23:59:00;0;0;48;0;1;0;undefined
+0;Unassigned;Shanxi;Mainland China;2022-07-01T23:59:00;0;0;39;0;1;0;undefined
+0;Unassigned;Tianjin;Mainland China;2022-07-01T23:59:00;0;0;32;0;0;0;undefined
+0;Unassigned;Guizhou;Mainland China;2022-07-01T23:59:00;0;0;29;0;2;0;undefined
+0;Unassigned;Gansu;Mainland China;2022-07-01T23:59:00;0;0;29;0;0;0;undefined
+0;Unassigned;Ningxia;Mainland China;2022-07-01T23:59:00;0;0;21;0;0;0;undefined
+0;Unassigned;Inner Mongolia;Mainland China;2022-07-01T23:59:00;0;0;20;0;1;0;undefined
+0;Unassigned;Xinjiang;Mainland China;2022-07-01T23:59:00;0;0;17;0;0;0;undefined
+0;Unassigned;Jilin;Mainland China;2022-07-01T23:59:00;0;0;14;0;1;0;undefined
+0;Unassigned;Hong Kong;Hong Kong;2022-07-01T23:59:00;0;0;12;0;0;0;undefined
+0;Unassigned;Taiwan;Taiwan;2022-07-01T23:59:00;0;0;10;0;0;0;undefined
+0;Unassigned;Qinghai;Mainland China;2022-07-01T23:59:00;0;0;8;0;0;0;undefined
+0;Unassigned;Macau;Macau;2022-07-01T23:59:00;0;0;7;0;0;0;undefined
+0;Unassigned;Tibet;Mainland China;2022-07-01T23:59:00;0;0;1;0;0;0;undefined
+0;Unassigned;undefined;Thailand;2022-07-01T23:59:00;0;0;19;0;5;0;undefined
+0;Unassigned;undefined;Japan;2022-07-01T23:59:00;0;0;15;0;1;0;undefined
+0;Unassigned;undefined;Singapore;2022-07-01T23:59:00;0;0;13;0;0;0;undefined
+0;Unassigned;undefined;South Korea;2022-07-01T23:59:00;0;0;11;0;0;0;undefined
+0;Unassigned;undefined;Malaysia;2022-07-01T23:59:00;0;0;8;0;0;0;undefined
+0;Unassigned;undefined;France;2022-07-01T23:59:00;0;0;5;0;0;0;undefined
+0;Unassigned;Bavaria;Germany;2022-07-01T23:59:00;0;0;5;0;0;0;undefined
+0;Unassigned;New South Wales;Australia;2022-07-01T23:59:00;0;0;4;0;2;0;undefined
+0;Unassigned;undefined;United Arab Emirates;2022-07-01T23:59:00;0;0;4;0;0;0;undefined
+0;Unassigned;Victoria;Australia;2022-07-01T23:59:00;0;0;3;0;0;0;undefined
+0;Unassigned;Illinois;US;2022-07-01T23:59:00;0;0;2;0;0;0;undefined
+0;Unassigned;California;US;2022-07-01T23:59:00;0;0;2;0;0;0;undefined
+0;Unassigned;undefined;Vietnam;2022-07-01T23:59:00;0;0;2;0;0;0;undefined
+0;Unassigned;Ontario;Canada;2022-07-01T23:59:00;0;0;2;0;0;0;undefined
+0;Unassigned;Queensland;Australia;2022-07-01T23:59:00;0;0;2;0;0;0;undefined
+0;Unassigned;undefined;Italy;2022-07-01T23:59:00;0;0;2;0;0;0;undefined
+0;Unassigned;undefined;UK;2022-07-01T23:59:00;0;0;2;0;0;0;undefined
+0;Unassigned;undefined;Russia;2022-07-01T23:59:00;0;0;2;0;0;0;undefined
+0;Unassigned;Washington;US;2022-07-01T23:59:00;0;0;1;0;0;0;undefined
+0;Unassigned;Arizona;US;2022-07-01T23:59:00;0;0;1;0;0;0;undefined
+0;Unassigned;undefined;Nepal;2022-07-01T23:59:00;0;0;1;0;0;0;undefined
+0;Unassigned;British Columbia;Canada;2022-07-01T23:59:00;0;0;1;0;0;0;undefined
+0;Unassigned;undefined;Cambodia;2022-07-01T23:59:00;0;0;1;0;0;0;undefined
+0;Unassigned;undefined;Sri Lanka;2022-07-01T23:59:00;0;0;1;0;0;0;undefined
+0;Unassigned;undefined;Finland;2022-07-01T23:59:00;0;0;1;0;0;0;undefined
+0;Unassigned;undefined;Philippines;2022-07-01T23:59:00;0;0;1;0;0;0;undefined
+0;Unassigned;undefined;India;2022-07-01T23:59:00;0;0;1;0;0;0;undefined
+0;Unassigned;undefined;Sweden;2022-07-01T23:59:00;0;0;1;0;0;0;undefined

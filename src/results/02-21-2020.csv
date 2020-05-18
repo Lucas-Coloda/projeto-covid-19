@@ -1,0 +1,85 @@
+FIPS;Admin2;Province_State;Country_Region;Last_Update;Lat;Long_;Confirmed;Deaths;Recovered;Active;Combined_Key;
+0;Unassigned;Hubei;Mainland China;2020-02-21T13:03:09;0;0;62662;2144;11881;0;undefined
+0;Unassigned;Guangdong;Mainland China;2020-02-21T10:13:09;0;0;1333;5;690;0;undefined
+0;Unassigned;Henan;Mainland China;2020-02-21T13:43:02;0;0;1267;19;736;0;undefined
+0;Unassigned;Zhejiang;Mainland China;2020-02-21T10:23:02;0;0;1203;1;679;0;undefined
+0;Unassigned;Hunan;Mainland China;2020-02-21T15:13:07;0;0;1011;4;661;0;undefined
+0;Unassigned;Anhui;Mainland China;2020-02-21T10:13:09;0;0;988;6;539;0;undefined
+0;Unassigned;Jiangxi;Mainland China;2020-02-21T01:13:05;0;0;934;1;489;0;undefined
+0;Unassigned;Shandong;Mainland China;2020-02-21T10:23:02;0;0;749;4;281;0;undefined
+0;Unassigned;Diamond Princess cruise ship;Others;2020-02-20T15:53:03;0;0;634;2;1;0;undefined
+0;Unassigned;Jiangsu;Mainland China;2020-02-21T11:43:01;0;0;631;0;373;0;undefined
+0;Unassigned;Chongqing;Mainland China;2020-02-21T23:13:14;0;0;572;6;316;0;undefined
+0;Unassigned;Sichuan;Mainland China;2020-02-21T12:53:01;0;0;525;3;231;0;undefined
+0;Unassigned;Heilongjiang;Mainland China;2020-02-21T11:43:01;0;0;479;12;175;0;undefined
+0;Unassigned;Beijing;Mainland China;2020-02-21T01:03:09;0;0;396;4;169;0;undefined
+0;Unassigned;Shanghai;Mainland China;2020-02-21T05:53:01;0;0;334;2;211;0;undefined
+0;Unassigned;Hebei;Mainland China;2020-02-21T12:53:01;0;0;308;5;184;0;undefined
+0;Unassigned;Fujian;Mainland China;2020-02-21T11:43:01;0;0;293;1;149;0;undefined
+0;Unassigned;Guangxi;Mainland China;2020-02-21T11:43:01;0;0;246;2;97;0;undefined
+0;Unassigned;Shaanxi;Mainland China;2020-02-21T11:43:01;0;0;245;1;134;0;undefined
+0;Unassigned;undefined;South Korea;2020-02-21T13:43:02;0;0;204;2;16;0;undefined
+0;Unassigned;Yunnan;Mainland China;2020-02-21T06:23:04;0;0;174;2;96;0;undefined
+0;Unassigned;Hainan;Mainland China;2020-02-21T10:13:09;0;0;168;4;95;0;undefined
+0;Unassigned;Guizhou;Mainland China;2020-02-21T12:53:01;0;0;146;2;77;0;undefined
+0;Unassigned;Shanxi;Mainland China;2020-02-21T23:33:06;0;0;132;0;78;0;undefined
+0;Unassigned;Tianjin;Mainland China;2020-02-21T12:53:01;0;0;132;3;62;0;undefined
+0;Unassigned;Liaoning;Mainland China;2020-02-21T01:33:02;0;0;121;1;61;0;undefined
+0;Unassigned;undefined;Japan;2020-02-21T19:03:06;0;0;105;1;22;0;undefined
+0;Unassigned;Gansu;Mainland China;2020-02-21T15:13:07;0;0;91;2;76;0;undefined
+0;Unassigned;Jilin;Mainland China;2020-02-21T10:13:09;0;0;91;1;45;0;undefined
+0;Unassigned;undefined;Singapore;2020-02-21T03:43:02;0;0;85;0;37;0;undefined
+0;Unassigned;Xinjiang;Mainland China;2020-02-21T13:43:02;0;0;76;1;24;0;undefined
+0;Unassigned;Inner Mongolia;Mainland China;2020-02-21T08:03:15;0;0;75;0;17;0;undefined
+0;Unassigned;Ningxia;Mainland China;2020-02-21T06:23:04;0;0;71;0;48;0;undefined
+0;Unassigned;Hong Kong;Hong Kong;2020-02-21T03:43:02;0;0;68;2;5;0;undefined
+0;Unassigned;undefined;Thailand;2020-02-21T18:53:02;0;0;35;0;17;0;undefined
+0;Unassigned;Taiwan;Taiwan;2020-02-21T06:53:03;0;0;26;1;2;0;undefined
+0;Unassigned;undefined;Malaysia;2020-02-19T09:33:03;0;0;22;0;15;0;undefined
+0;Unassigned;undefined;Italy;2020-02-21T23:33:06;0;0;20;1;0;0;undefined
+0;Unassigned;undefined;Iran;2020-02-21T18:53:02;0;0;18;4;0;0;undefined
+0;Unassigned;Qinghai;Mainland China;2020-02-21T04:43:02;0;0;18;0;18;0;undefined
+0;Unassigned;undefined;Germany;2020-02-21T23:03:13;0;0;16;0;14;0;undefined
+0;Unassigned;undefined;Vietnam;2020-02-21T06:03:04;0;0;16;0;14;0;undefined
+0;Unassigned;undefined;France;2020-02-15T20:53:02;0;0;12;1;4;0;undefined
+0;Unassigned;"Ashland, NE";US;2020-02-21T23:23:06;0;0;11;0;0;0;undefined
+0;Unassigned;Macau;Macau;2020-02-20T02:13:19;0;0;10;0;6;0;undefined
+0;Unassigned;undefined;UK;2020-02-16T16:23:06;0;0;9;0;8;0;undefined
+0;Unassigned;undefined;United Arab Emirates;2020-02-16T20:43:02;0;0;9;0;4;0;undefined
+0;Unassigned;British Columbia;Canada;2020-02-21T05:23:04;0;0;6;0;0;0;undefined
+0;Unassigned;Queensland;Australia;2020-02-21T05:43:02;0;0;5;0;1;0;undefined
+0;Unassigned;"Travis, CA";US;2020-02-21T23:23:06;0;0;5;0;0;0;undefined
+0;Unassigned;From Diamond Princess;Australia;2020-02-21T23:03:13;0;0;4;0;0;0;undefined
+0;Unassigned;New South Wales;Australia;2020-02-13T17:53:03;0;0;4;0;4;0;undefined
+0;Unassigned;Victoria;Australia;2020-02-13T17:53:03;0;0;4;0;4;0;undefined
+0;Unassigned;undefined;India;2020-02-16T07:43:02;0;0;3;0;3;0;undefined
+0;Unassigned;undefined;Philippines;2020-02-12T07:43:02;0;0;3;1;1;0;undefined
+0;Unassigned;South Australia;Australia;2020-02-17T08:13:09;0;0;2;0;2;0;undefined
+0;Unassigned;"Toronto, ON";Canada;2020-02-21T05:23:04;0;0;2;0;2;0;undefined
+0;Unassigned;undefined;Russia;2020-02-12T14:43:03;0;0;2;0;2;0;undefined
+0;Unassigned;undefined;Spain;2020-02-15T17:23:04;0;0;2;0;2;0;undefined
+0;Unassigned;"Chicago, IL";US;2020-02-09T19:03:03;0;0;2;0;2;0;undefined
+0;Unassigned;"Lackland, TX";US;2020-02-21T23:23:06;0;0;2;0;0;0;undefined
+0;Unassigned;"San Benito, CA";US;2020-02-03T03:53:02;0;0;2;0;0;0;undefined
+0;Unassigned;"San Diego County, CA";US;2020-02-21T05:43:02;0;0;2;0;1;0;undefined
+0;Unassigned;"Santa Clara, CA";US;2020-02-21T05:23:04;0;0;2;0;1;0;undefined
+0;Unassigned;undefined;Belgium;2020-02-17T04:23:06;0;0;1;0;1;0;undefined
+0;Unassigned;undefined;Cambodia;2020-02-12T07:43:02;0;0;1;0;1;0;undefined
+0;Unassigned;"London, ON";Canada;2020-02-12T18:53:03;0;0;1;0;1;0;undefined
+0;Unassigned;undefined;Egypt;2020-02-21T18:53:02;0;0;1;0;0;0;undefined
+0;Unassigned;undefined;Finland;2020-02-12T00:03:12;0;0;1;0;1;0;undefined
+0;Unassigned;From Diamond Princess;Israel;2020-02-21T15:33:03;0;0;1;0;0;0;undefined
+0;Unassigned;None;Lebanon;2020-02-21T15:33:03;0;0;1;0;0;0;undefined
+0;Unassigned;Tibet;Mainland China;2020-02-12T06:43:02;0;0;1;0;1;0;undefined
+0;Unassigned;undefined;Nepal;2020-02-12T14:43:03;0;0;1;0;1;0;undefined
+0;Unassigned;undefined;Sri Lanka;2020-02-08T03:43:03;0;0;1;0;1;0;undefined
+0;Unassigned;undefined;Sweden;2020-02-01T02:13:26;0;0;1;0;0;0;undefined
+0;Unassigned;"Boston, MA";US;2020-02-01T19:43:03;0;0;1;0;0;0;undefined
+0;Unassigned;"Humboldt County, CA";US;2020-02-21T05:13:09;0;0;1;0;0;0;undefined
+0;Unassigned;"Los Angeles, CA";US;2020-02-01T19:53:03;0;0;1;0;0;0;undefined
+0;Unassigned;"Madison, WI";US;2020-02-05T21:53:02;0;0;1;0;0;0;undefined
+0;Unassigned;"Orange, CA";US;2020-02-01T19:53:03;0;0;1;0;0;0;undefined
+0;Unassigned;"Sacramento County, CA";US;2020-02-21T23:13:16;0;0;1;0;0;0;undefined
+0;Unassigned;"San Antonio, TX";US;2020-02-13T18:53:02;0;0;1;0;0;0;undefined
+0;Unassigned;"Seattle, WA";US;2020-02-09T07:03:04;0;0;1;0;1;0;undefined
+0;Unassigned;"Tempe, AZ";US;2020-02-01T19:43:03;0;0;1;0;0;0;undefined

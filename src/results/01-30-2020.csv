@@ -1,0 +1,59 @@
+FIPS;Admin2;Province_State;Country_Region;Last_Update;Lat;Long_;Confirmed;Deaths;Recovered;Active;Combined_Key;
+0;Unassigned;Hubei;Mainland China;0022-06-01T16:00:00;0;0;4903;162;90;0;undefined
+0;Unassigned;Zhejiang;Mainland China;0022-06-01T16:00:00;0;0;428;0;4;0;undefined
+0;Unassigned;Guangdong;Mainland China;0022-06-01T16:00:00;0;0;354;0;10;0;undefined
+0;Unassigned;Henan;Mainland China;0022-06-01T16:00:00;0;0;278;2;2;0;undefined
+0;Unassigned;Hunan;Mainland China;0022-06-01T16:00:00;0;0;277;0;2;0;undefined
+0;Unassigned;Anhui;Mainland China;0022-06-01T16:00:00;0;0;200;0;2;0;undefined
+0;Unassigned;Chongqing;Mainland China;0022-06-01T16:00:00;0;0;182;0;1;0;undefined
+0;Unassigned;Jiangxi;Mainland China;0022-06-01T16:00:00;0;0;162;0;5;0;undefined
+0;Unassigned;Shandong;Mainland China;0022-06-01T16:00:00;0;0;158;0;1;0;undefined
+0;Unassigned;Sichuan;Mainland China;0022-06-01T16:00:00;0;0;142;1;1;0;undefined
+0;Unassigned;Jiangsu;Mainland China;0022-06-01T16:00:00;0;0;129;0;1;0;undefined
+0;Unassigned;Beijing;Mainland China;0022-06-01T16:00:00;0;0;114;1;4;0;undefined
+0;Unassigned;Shanghai;Mainland China;0022-06-01T16:00:00;0;0;112;1;5;0;undefined
+0;Unassigned;Fujian;Mainland China;0022-06-01T16:00:00;0;0;101;0;0;0;undefined
+0;Unassigned;Guangxi;Mainland China;0022-06-01T16:00:00;0;0;78;0;2;0;undefined
+0;Unassigned;Yunnan;Mainland China;0022-06-01T16:00:00;0;0;70;0;0;0;undefined
+0;Unassigned;Hebei;Mainland China;0022-06-01T16:00:00;0;0;65;1;0;0;undefined
+0;Unassigned;Shaanxi;Mainland China;0022-06-01T16:00:00;0;0;63;0;0;0;undefined
+0;Unassigned;Hainan;Mainland China;0022-06-01T16:00:00;0;0;46;1;1;0;undefined
+0;Unassigned;Heilongjiang;Mainland China;0022-06-01T16:00:00;0;0;44;2;0;0;undefined
+0;Unassigned;Liaoning;Mainland China;0022-06-01T16:00:00;0;0;41;0;1;0;undefined
+0;Unassigned;Shanxi;Mainland China;0022-06-01T16:00:00;0;0;35;0;1;0;undefined
+0;Unassigned;Tianjin;Mainland China;0022-06-01T16:00:00;0;0;31;0;0;0;undefined
+0;Unassigned;Gansu;Mainland China;0022-06-01T16:00:00;0;0;26;0;0;0;undefined
+0;Unassigned;Inner Mongolia;Mainland China;0022-06-01T16:00:00;0;0;19;0;0;0;undefined
+0;Unassigned;Ningxia;Mainland China;0022-06-01T16:00:00;0;0;17;0;0;0;undefined
+0;Unassigned;Jilin;Mainland China;0022-06-01T16:00:00;0;0;14;0;1;0;undefined
+0;Unassigned;Xinjiang;Mainland China;0022-06-01T16:00:00;0;0;14;0;0;0;undefined
+0;Unassigned;Guizhou;Mainland China;0022-06-01T16:00:00;0;0;12;0;1;0;undefined
+0;Unassigned;Hong Kong;Hong Kong;0022-06-01T16:00:00;0;0;10;0;0;0;undefined
+0;Unassigned;Taiwan;Taiwan;0022-06-01T16:00:00;0;0;9;0;0;0;undefined
+0;Unassigned;Qinghai;Mainland China;0022-06-01T16:00:00;0;0;8;0;0;0;undefined
+0;Unassigned;Macau;Macau;0022-06-01T16:00:00;0;0;7;0;0;0;undefined
+0;Unassigned;Tibet;Mainland China;0022-06-01T16:00:00;0;0;1;0;0;0;undefined
+0;Unassigned;Washington;US;0022-06-01T16:00:00;0;0;1;0;0;0;undefined
+0;Unassigned;Illinois;US;0022-06-01T16:00:00;0;0;1;0;0;0;undefined
+0;Unassigned;California;US;0022-06-01T16:00:00;0;0;2;0;0;0;undefined
+0;Unassigned;Arizona;US;0022-06-01T16:00:00;0;0;1;0;0;0;undefined
+0;Unassigned;undefined;Japan;0022-06-01T16:00:00;0;0;11;0;1;0;undefined
+0;Unassigned;undefined;Thailand;0022-06-01T16:00:00;0;0;14;0;5;0;undefined
+0;Unassigned;undefined;South Korea;0022-06-01T16:00:00;0;0;4;0;0;0;undefined
+0;Unassigned;undefined;Singapore;0022-06-01T16:00:00;0;0;10;0;0;0;undefined
+0;Unassigned;undefined;Vietnam;0022-06-01T16:00:00;0;0;2;0;0;0;undefined
+0;Unassigned;undefined;France;0022-06-01T16:00:00;0;0;5;0;0;0;undefined
+0;Unassigned;undefined;Nepal;0022-06-01T16:00:00;0;0;1;0;0;0;undefined
+0;Unassigned;undefined;Malaysia;0022-06-01T16:00:00;0;0;8;0;0;0;undefined
+0;Unassigned;Ontario;Canada;0022-06-01T16:00:00;0;0;2;0;0;0;undefined
+0;Unassigned;British Columbia;Canada;0022-06-01T16:00:00;0;0;1;0;0;0;undefined
+0;Unassigned;undefined;Cambodia;0022-06-01T16:00:00;0;0;1;0;0;0;undefined
+0;Unassigned;undefined;Sri Lanka;0022-06-01T16:00:00;0;0;1;0;0;0;undefined
+0;Unassigned;New South Wales;Australia;0022-06-01T16:00:00;0;0;4;0;2;0;undefined
+0;Unassigned;Victoria;Australia;0022-06-01T16:00:00;0;0;2;0;0;0;undefined
+0;Unassigned;Queensland;Australia;0022-06-01T16:00:00;0;0;3;0;0;0;undefined
+0;Unassigned;Bavaria;Germany;0022-06-01T16:00:00;0;0;4;0;0;0;undefined
+0;Unassigned;undefined;Finland;0022-06-01T16:00:00;0;0;1;0;0;0;undefined
+0;Unassigned;undefined;United Arab Emirates;0022-06-01T16:00:00;0;0;4;0;0;0;undefined
+0;Unassigned;undefined;Philippines;0022-06-01T16:00:00;0;0;1;0;0;0;undefined
+0;Unassigned;undefined;India;0022-06-01T16:00:00;0;0;1;0;0;0;undefined

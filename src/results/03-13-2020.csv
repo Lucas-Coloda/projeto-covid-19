@@ -1,0 +1,231 @@
+FIPS;Admin2;Province_State;Country_Region;Last_Update;Lat;Long_;Confirmed;Deaths;Recovered;Active;Combined_Key;
+0;Unassigned;Hubei;China;2020-03-13T11:09:03;30.9756;0;67786;3062;51553;0;undefined
+0;Unassigned;Guangdong;China;2020-03-13T11:09:03;23.3417;0;1356;8;1296;0;undefined
+0;Unassigned;Henan;China;2020-03-11T08:13:09;33.882;0;1273;22;1249;0;undefined
+0;Unassigned;Zhejiang;China;2020-03-12T01:33:02;29.1832;0;1215;1;1197;0;undefined
+0;Unassigned;Hunan;China;2020-03-13T11:09:03;27.6104;0;1018;4;1005;0;undefined
+0;Unassigned;Anhui;China;2020-03-11T02:18:14;31.8257;0;990;6;984;0;undefined
+0;Unassigned;Jiangxi;China;2020-03-12T02:13:04;27.614;0;935;1;934;0;undefined
+0;Unassigned;Shandong;China;2020-03-13T11:09:03;36.3427;0;760;7;739;0;undefined
+0;Unassigned;Jiangsu;China;2020-03-13T11:09:03;32.9711;0;631;0;630;0;undefined
+0;Unassigned;Chongqing;China;2020-03-13T23:13:12;30.0572;0;576;6;566;0;undefined
+0;Unassigned;Sichuan;China;2020-03-13T11:09:03;30.6171;0;539;3;503;0;undefined
+0;Unassigned;Heilongjiang;China;2020-03-13T11:09:03;47.862;0;482;13;446;0;undefined
+0;Unassigned;Beijing;China;2020-03-13T11:09:03;40.1824;0;436;8;342;0;undefined
+0;Unassigned;Shanghai;China;2020-03-13T11:09:03;31.202;0;346;3;324;0;undefined
+0;Unassigned;Hebei;China;2020-03-13T11:09:03;38.0428;0;318;6;310;0;undefined
+0;Unassigned;Fujian;China;2020-03-11T02:18:14;26.0789;0;296;1;295;0;undefined
+0;Unassigned;Guangxi;China;2020-03-13T11:09:03;23.8298;0;252;2;243;0;undefined
+0;Unassigned;Shaanxi;China;2020-03-12T01:33:02;35.1917;0;245;2;232;0;undefined
+0;Unassigned;Yunnan;China;2020-03-11T02:18:14;24.974;0;174;2;170;0;undefined
+0;Unassigned;Hainan;China;2020-03-12T03:53:02;19.1959;0;168;6;160;0;undefined
+0;Unassigned;Guizhou;China;2020-03-13T11:09:03;26.8154;0;146;2;140;0;undefined
+0;Unassigned;Tianjin;China;2020-03-12T01:53:03;39.3054;0;136;3;132;0;undefined
+0;Unassigned;Hong Kong;China;2020-03-13T13:33:03;22.3;0;134;4;77;0;undefined
+0;Unassigned;Shanxi;China;2020-03-13T11:09:03;37.5777;0;133;0;133;0;undefined
+0;Unassigned;Gansu;China;2020-03-13T11:09:03;36.0611;0;127;2;88;0;undefined
+0;Unassigned;Liaoning;China;2020-03-12T09:53:06;41.2956;0;125;1;112;0;undefined
+0;Unassigned;Xinjiang;China;2020-03-11T02:18:14;41.1129;0;76;3;73;0;undefined
+0;Unassigned;Inner Mongolia;China;2020-03-11T03:53:03;44.0935;0;75;1;71;0;undefined
+0;Unassigned;Ningxia;China;2020-03-11T09:33:12;37.2692;0;75;0;72;0;undefined
+0;Unassigned;Jilin;China;2020-03-13T11:09:03;43.6661;0;93;1;91;0;undefined
+0;Unassigned;Qinghai;China;2020-03-11T02:18:14;35.7452;0;18;0;18;0;undefined
+0;Unassigned;Macau;China;2020-03-11T18:52:03;22.1667;0;10;0;10;0;undefined
+0;Unassigned;Tibet;China;2020-03-11T02:18:14;31.6927;0;1;0;1;0;undefined
+0;Unassigned;undefined;Panama;2020-03-11T20:00:00;8.538;0;27;1;0;0;undefined
+0;Unassigned;Tasmania;Australia;2020-03-11T20:00:00;-41.4545;0;5;0;0;0;undefined
+0;Unassigned;undefined;Croatia;2020-03-11T20:00:00;45.1;0;32;0;1;0;undefined
+0;Unassigned;undefined;Burkina Faso;2020-03-11T20:00:00;12.2383;0;2;0;0;0;undefined
+0;Unassigned;undefined;Albania;2020-03-11T20:00:00;41.1533;0;33;1;0;0;undefined
+0;Unassigned;British Columbia;Canada;2020-03-11T20:00:00;53.7267;0;64;1;4;0;undefined
+0;Unassigned;New South Wales;Australia;2020-03-11T20:00:00;-33.8688;0;92;2;4;0;undefined
+0;Unassigned;Victoria;Australia;2020-03-11T20:00:00;-37.8136;0;36;0;8;0;undefined
+0;Unassigned;Queensland;Australia;2020-03-11T20:00:00;-28.0167;0;35;0;8;0;undefined
+0;Unassigned;South Australia;Australia;2020-03-11T20:00:00;-34.9285;0;16;0;3;0;undefined
+0;Unassigned;Channel Islands;United Kingdom;2020-03-11T20:00:00;49.372284;0;2;0;0;0;undefined
+0;Unassigned;undefined;Philippines;2020-03-11T20:00:00;12.8797;0;64;5;2;0;undefined
+0;Unassigned;undefined;Nepal;2020-03-11T20:00:00;28.3949;0;1;0;1;0;undefined
+0;Unassigned;undefined;Sri Lanka;2020-03-11T20:00:00;7.8731;0;6;0;1;0;undefined
+0;Unassigned;undefined;United Arab Emirates;2020-03-11T20:00:00;23.4241;0;85;0;17;0;undefined
+0;Unassigned;undefined;Thailand;2020-03-11T20:00:00;15.87;0;75;1;35;0;undefined
+0;Unassigned;undefined;Cambodia;2020-03-11T20:00:00;12.5657;0;5;0;1;0;undefined
+0;Unassigned;undefined;San Marino;2020-03-11T20:00:00;43.9424;0;80;5;0;0;undefined
+0;Unassigned;Ontario;Canada;2020-03-11T20:00:00;51.2538;0;74;0;4;0;undefined
+0;Unassigned;Australian Capital Territory;Australia;2020-03-11T20:00:00;-35.4735;0;1;0;0;0;undefined
+0;Unassigned;undefined;Germany;2020-03-11T20:00:00;51.1657;0;3675;7;46;0;undefined
+0;Unassigned;undefined;Congo (Kinshasa);2020-03-11T20:00:00;-4.0383;0;2;0;0;0;undefined
+0;Unassigned;undefined;Honduras;2020-03-11T20:00:00;15.2;0;2;0;0;0;undefined
+0;Unassigned;Diamond Princess;US;2020-03-11T20:00:00;35.4437;0;46;0;0;0;undefined
+0;Unassigned;undefined;Algeria;2020-03-11T20:00:00;28.0339;0;26;2;8;0;undefined
+0;Unassigned;undefined;Reunion;2020-03-11T20:00:00;-21.1151;0;5;0;0;0;undefined
+0;Unassigned;undefined;Oman;2020-03-11T20:00:00;21.4735;0;19;0;9;0;undefined
+0;Unassigned;Diamond Princess;Cruise Ship;2020-03-11T20:00:00;35.4498;0;696;7;325;0;undefined
+0;Unassigned;New Brunswick;Canada;2020-03-11T20:00:00;46.5653;0;1;0;0;0;undefined
+0;Unassigned;undefined;Italy;2020-03-11T20:00:00;41.8719;0;17660;1266;1439;0;undefined
+0;Unassigned;undefined;Iraq;2020-03-11T20:00:00;33.2232;0;101;9;24;0;undefined
+0;Unassigned;undefined;Lebanon;2020-03-11T20:00:00;33.8547;0;77;3;1;0;undefined
+0;Unassigned;From Diamond Princess;Australia;2020-03-11T20:00:00;35.4437;0;0;0;0;0;undefined
+0;Unassigned;undefined;Ukraine;2020-03-11T20:00:00;48.3794;0;3;1;0;0;undefined
+0;Unassigned;undefined;Austria;2020-03-11T20:00:00;47.5162;0;504;1;6;0;undefined
+0;Unassigned;undefined;Switzerland;2020-03-11T20:00:00;46.8182;0;1139;11;4;0;undefined
+0;Unassigned;undefined;Ireland;2020-03-11T20:00:00;53.1424;0;90;1;0;0;undefined
+0;Unassigned;undefined;Georgia;2020-03-11T20:00:00;42.3154;0;25;0;0;0;undefined
+0;Unassigned;undefined;Bangladesh;2020-03-11T20:00:00;23.685;0;3;0;0;0;undefined
+0;Unassigned;undefined;Kuwait;2020-03-11T20:00:00;29.3117;0;80;0;5;0;undefined
+0;Unassigned;undefined;North Macedonia;2020-03-11T20:00:00;41.6086;0;14;0;1;0;undefined
+0;Unassigned;undefined;Brazil;2020-03-11T20:00:00;-14.235;0;151;0;0;0;undefined
+0;Unassigned;undefined;Greece;2020-03-11T20:00:00;39.0742;0;190;1;0;0;undefined
+0;Unassigned;undefined;Sweden;2020-03-11T20:00:00;60.1282;0;814;1;1;0;undefined
+0;Unassigned;undefined;Pakistan;2020-03-11T20:00:00;30.3753;0;28;0;2;0;undefined
+0;Unassigned;undefined;Norway;2020-03-11T20:00:00;60.472;0;996;0;1;0;undefined
+0;Unassigned;France;France;2020-03-11T20:00:00;46.2276;0;3661;79;12;0;undefined
+0;Unassigned;undefined;Turkey;2020-03-11T20:00:00;38.9637;0;5;0;0;0;undefined
+0;Unassigned;undefined;Bahrain;2020-03-11T20:00:00;26.0667;0;189;0;44;0;undefined
+0;Unassigned;undefined;Iceland;2020-03-11T20:00:00;64.9631;0;134;0;1;0;undefined
+0;Unassigned;undefined;Ecuador;2020-03-11T20:00:00;-1.8312;0;17;0;0;0;undefined
+0;Unassigned;undefined;Estonia;2020-03-11T20:00:00;58.5953;0;79;0;0;0;undefined
+0;Unassigned;Denmark;Denmark;2020-03-11T20:00:00;56.2639;0;801;0;1;0;undefined
+0;Unassigned;United Kingdom;United Kingdom;2020-03-11T20:00:00;55.3781;0;798;8;18;0;undefined
+0;Unassigned;undefined;Netherlands;2020-03-11T20:00:00;52.1326;0;804;10;0;0;undefined
+0;Unassigned;undefined;Cuba;2020-03-11T20:00:00;21.5218;0;4;0;0;0;undefined
+0;Unassigned;Quebec;Canada;2020-03-11T20:00:00;52.9399;0;17;0;0;0;undefined
+0;Unassigned;undefined;Nigeria;2020-03-11T20:00:00;9.082;0;2;0;0;0;undefined
+0;Unassigned;undefined;Lithuania;2020-03-11T20:00:00;55.1694;0;6;0;0;0;undefined
+0;Unassigned;undefined;New Zealand;2020-03-11T20:00:00;-40.9006;0;5;0;0;0;undefined
+0;Unassigned;undefined;Belarus;2020-03-11T20:00:00;53.7098;0;27;0;3;0;undefined
+0;Unassigned;undefined;Azerbaijan;2020-03-11T20:00:00;40.1431;0;15;1;3;0;undefined
+0;Unassigned;undefined;Armenia;2020-03-11T20:00:00;40.0691;0;8;0;0;0;undefined
+0;Unassigned;undefined;Kazakhstan;2020-03-11T20:00:00;48.0196;0;4;0;0;0;undefined
+0;Unassigned;undefined;Iran;2020-03-11T20:00:00;32.4279;0;11364;514;2959;0;undefined
+0;Unassigned;undefined;Israel;2020-03-11T20:00:00;31.0461;0;161;0;4;0;undefined
+0;Unassigned;French Polynesia;France;2020-03-11T20:00:00;-17.6797;0;3;0;0;0;undefined
+0;Unassigned;Western Australia;Australia;2020-03-11T20:00:00;-31.9505;0;14;1;0;0;undefined
+0;Unassigned;undefined;Cayman Islands;2020-03-11T20:00:00;19.3133;0;1;0;0;0;undefined
+0;Unassigned;undefined;Japan;2020-03-11T20:00:00;36.2048;0;701;19;118;0;undefined
+0;Unassigned;undefined;Czechia;2020-03-11T20:00:00;49.8175;0;141;0;0;0;undefined
+0;Unassigned;undefined;Qatar;2020-03-11T20:00:00;25.3548;0;320;0;0;0;undefined
+0;Unassigned;undefined;Singapore;2020-03-11T20:00:00;1.3521;0;200;0;97;0;undefined
+0;Unassigned;undefined;Guadeloupe;2020-03-11T20:00:00;16.265;0;1;0;0;0;undefined
+0;Unassigned;undefined;Dominican Republic;2020-03-11T20:00:00;18.7357;0;5;0;0;0;undefined
+0;Unassigned;undefined;Egypt;2020-03-11T20:00:00;26.8206;0;80;2;27;0;undefined
+0;Unassigned;undefined;Bolivia;2020-03-11T20:00:00;-16.2902;0;3;0;0;0;undefined
+0;Unassigned;Manitoba;Canada;2020-03-11T20:00:00;53.7609;0;4;0;0;0;undefined
+0;Unassigned;Saskatchewan;Canada;2020-03-11T20:00:00;52.9399;0;2;0;0;0;undefined
+0;Unassigned;undefined;Indonesia;2020-03-11T20:00:00;-0.7893;0;69;4;2;0;undefined
+0;Unassigned;undefined;"Korea, South";2020-03-11T20:00:00;35.9078;0;7979;66;510;0;undefined
+0;Unassigned;undefined;Latvia;2020-03-11T20:00:00;56.8796;0;17;0;1;0;undefined
+0;Unassigned;undefined;Senegal;2020-03-11T20:00:00;14.4974;0;10;0;1;0;undefined
+0;Unassigned;undefined;Ethiopia;2020-03-11T20:00:00;9.145;0;1;0;0;0;undefined
+0;Unassigned;undefined;Sudan;2020-03-11T20:00:00;12.8628;0;1;1;0;0;undefined
+0;Unassigned;undefined;Portugal;2020-03-11T20:00:00;39.3999;0;112;0;1;0;undefined
+0;Unassigned;undefined;Andorra;2020-03-11T20:00:00;42.5063;0;1;0;0;0;undefined
+0;Unassigned;undefined;Guinea;2020-03-11T20:00:00;9.9456;0;1;0;0;0;undefined
+0;Unassigned;undefined;Antigua and Barbuda;2020-03-11T20:00:00;17.0608;0;1;0;0;0;undefined
+0;Unassigned;undefined;Belgium;2020-03-11T20:00:00;50.5039;0;559;3;1;0;undefined
+0;Unassigned;undefined;Russia;2020-03-11T20:00:00;61.524;0;45;0;3;0;undefined
+0;Unassigned;undefined;India;2020-03-11T20:00:00;20.5937;0;82;2;4;0;undefined
+0;Unassigned;undefined;Morocco;2020-03-11T20:00:00;31.7917;0;7;1;1;0;undefined
+0;Unassigned;undefined;Aruba;2020-03-11T20:00:00;12.5211;0;2;0;0;0;undefined
+0;Unassigned;Grand Princess;Canada;2020-03-11T20:00:00;37.6489;0;2;0;0;0;undefined
+0;Unassigned;undefined;Argentina;2020-03-11T20:00:00;-38.4161;0;31;2;0;0;undefined
+0;Unassigned;undefined;Chile;2020-03-11T20:00:00;-35.6751;0;43;0;0;0;undefined
+0;Unassigned;undefined;Jordan;2020-03-11T20:00:00;31.24;0;1;0;1;0;undefined
+0;Unassigned;undefined;Kenya;2020-03-11T20:00:00;-0.0236;0;1;0;0;0;undefined
+0;Unassigned;Saint Barthelemy;France;2020-03-11T20:00:00;17.9;0;1;0;0;0;undefined
+0;Unassigned;St Martin;France;2020-03-11T20:00:00;18.0708;0;2;0;0;0;undefined
+0;Unassigned;undefined;Poland;2020-03-11T20:00:00;51.9194;0;68;2;0;0;undefined
+0;Unassigned;Faroe Islands;Denmark;2020-03-11T20:00:00;61.8926;0;3;0;0;0;undefined
+0;Unassigned;Gibraltar;United Kingdom;2020-03-11T20:00:00;36.1408;0;1;0;1;0;undefined
+0;Unassigned;undefined;Hungary;2020-03-11T20:00:00;47.1625;0;19;0;0;0;undefined
+0;Unassigned;Northern Territory;Australia;2020-03-11T20:00:00;-12.4634;0;1;0;0;0;undefined
+0;Unassigned;Alabama;US;2020-03-11T20:00:00;32.3182;0;5;0;0;0;undefined
+0;Unassigned;undefined;Slovenia;2020-03-11T20:00:00;46.1512;0;141;0;0;0;undefined
+0;Unassigned;undefined;Finland;2020-03-11T20:00:00;61.9241;0;155;0;1;0;undefined
+0;Unassigned;undefined;South Africa;2020-03-11T20:00:00;-30.5595;0;24;0;0;0;undefined
+0;Unassigned;undefined;Bosnia and Herzegovina;2020-03-11T20:00:00;43.9159;0;13;0;0;0;undefined
+0;Unassigned;undefined;Saudi Arabia;2020-03-11T20:00:00;23.8859;0;86;0;1;0;undefined
+0;Unassigned;undefined;Cote d'Ivoire;2020-03-11T20:00:00;7.54;0;1;0;0;0;undefined
+0;Unassigned;undefined;Luxembourg;2020-03-11T20:00:00;49.8153;0;34;0;0;0;undefined
+0;Unassigned;undefined;Costa Rica;2020-03-11T20:00:00;9.7489;0;23;0;0;0;undefined
+0;Unassigned;Alberta;Canada;2020-03-11T20:00:00;53.9333;0;29;0;0;0;undefined
+0;Unassigned;undefined;Bhutan;2020-03-11T20:00:00;27.5142;0;1;0;0;0;undefined
+0;Unassigned;undefined;Spain;2020-03-11T20:00:00;40.4637;0;5232;133;193;0;undefined
+0;Unassigned;undefined;Malaysia;2020-03-11T20:00:00;4.2105;0;197;0;26;0;undefined
+0;Unassigned;undefined;Holy See;2020-03-11T20:00:00;41.9029;0;1;0;0;0;undefined
+0;Unassigned;undefined;Serbia;2020-03-11T20:00:00;44.0165;0;35;0;0;0;undefined
+0;Unassigned;undefined;Cameroon;2020-03-11T20:00:00;3.848;0;2;0;0;0;undefined
+0;Unassigned;undefined;Slovakia;2020-03-11T20:00:00;48.669;0;32;0;0;0;undefined
+0;Unassigned;undefined;Togo;2020-03-11T20:00:00;8.6195;0;1;0;0;0;undefined
+0;Unassigned;undefined;Peru;2020-03-11T20:00:00;-9.19;0;28;0;0;0;undefined
+0;Unassigned;undefined;Romania;2020-03-11T20:00:00;45.9432;0;89;0;7;0;undefined
+0;Unassigned;undefined;Mexico;2020-03-11T20:00:00;23.6345;0;12;0;4;0;undefined
+0;Unassigned;undefined;Colombia;2020-03-11T20:00:00;4.5709;0;13;0;0;0;undefined
+0;Unassigned;Grand Princess;US;2020-03-11T20:00:00;37.64894;0;21;0;0;0;undefined
+0;Unassigned;undefined;Brunei;2020-03-11T20:00:00;4.5353;0;37;0;0;0;undefined
+0;Unassigned;undefined;Martinique;2020-03-11T20:00:00;14.6415;0;3;0;0;0;undefined
+0;Unassigned;undefined;French Guiana;2020-03-11T20:00:00;3.9339;0;5;0;0;0;undefined
+0;Unassigned;undefined;Malta;2020-03-11T20:00:00;35.9375;0;12;0;1;0;undefined
+0;Unassigned;undefined;Paraguay;2020-03-11T20:00:00;-23.4425;0;6;0;0;0;undefined
+0;Unassigned;undefined;Moldova;2020-03-11T20:00:00;47.4116;0;6;0;0;0;undefined
+0;Unassigned;undefined;Maldives;2020-03-11T20:00:00;3.2028;0;9;0;0;0;undefined
+0;Unassigned;undefined;Bulgaria;2020-03-11T20:00:00;42.7339;0;23;1;0;0;undefined
+0;Unassigned;undefined;Tunisia;2020-03-11T20:00:00;33.8869;0;16;0;0;0;undefined
+0;Unassigned;undefined;Cyprus;2020-03-11T20:00:00;35.1264;0;14;0;0;0;undefined
+0;Unassigned;Alaska;US;2020-03-11T20:00:00;61.370716;0;1;0;0;0;undefined
+0;Unassigned;Arizona;US;2020-03-11T20:00:00;33.729759;0;9;0;1;0;undefined
+0;Unassigned;Arkansas;US;2020-03-11T20:00:00;34.969704;0;6;0;0;0;undefined
+0;Unassigned;California;US;2020-03-11T20:00:00;36.116203;0;282;4;6;0;undefined
+0;Unassigned;Colorado;US;2020-03-11T20:00:00;39.059811;0;49;0;0;0;undefined
+0;Unassigned;Connecticut;US;2020-03-11T20:00:00;41.597782;0;11;0;0;0;undefined
+0;Unassigned;Delaware;US;2020-03-11T20:00:00;39.318523;0;4;0;0;0;undefined
+0;Unassigned;District of Columbia;US;2020-03-11T20:00:00;38.897438;0;10;0;0;0;undefined
+0;Unassigned;Florida;US;2020-03-11T20:00:00;27.766279;0;50;2;0;0;undefined
+0;Unassigned;Georgia;US;2020-03-11T20:00:00;33.040619;0;42;1;0;0;undefined
+0;Unassigned;Hawaii;US;2020-03-11T20:00:00;21.094318;0;2;0;0;0;undefined
+0;Unassigned;Idaho;US;2020-03-11T20:00:00;44.240459;0;1;0;0;0;undefined
+0;Unassigned;Illinois;US;2020-03-11T20:00:00;40.349457;0;46;0;2;0;undefined
+0;Unassigned;Indiana;US;2020-03-11T20:00:00;39.849426;0;13;0;0;0;undefined
+0;Unassigned;Iowa;US;2020-03-11T20:00:00;42.011539;0;17;0;0;0;undefined
+0;Unassigned;Kansas;US;2020-03-11T20:00:00;38.5266;0;5;1;0;0;undefined
+0;Unassigned;Kentucky;US;2020-03-11T20:00:00;37.66814;0;14;0;0;0;undefined
+0;Unassigned;Louisiana;US;2020-03-11T20:00:00;31.169546;0;36;0;0;0;undefined
+0;Unassigned;Maine;US;2020-03-11T20:00:00;44.693947;0;1;0;0;0;undefined
+0;Unassigned;Maryland;US;2020-03-11T20:00:00;39.063946;0;18;0;0;0;undefined
+0;Unassigned;Massachusetts;US;2020-03-11T20:00:00;42.230171;0;123;0;1;0;undefined
+0;Unassigned;Michigan;US;2020-03-11T20:00:00;43.326618;0;16;0;0;0;undefined
+0;Unassigned;Minnesota;US;2020-03-11T20:00:00;45.694454;0;14;0;0;0;undefined
+0;Unassigned;Mississippi;US;2020-03-11T20:00:00;32.741646;0;1;0;0;0;undefined
+0;Unassigned;Missouri;US;2020-03-11T20:00:00;38.456085;0;2;0;0;0;undefined
+0;Unassigned;Montana;US;2020-03-11T20:00:00;46.921925;0;1;0;0;0;undefined
+0;Unassigned;Nebraska;US;2020-03-11T20:00:00;41.12537;0;13;0;0;0;undefined
+0;Unassigned;Nevada;US;2020-03-11T20:00:00;38.313515;0;17;0;0;0;undefined
+0;Unassigned;New Hampshire;US;2020-03-11T20:00:00;43.452492;0;6;0;0;0;undefined
+0;Unassigned;New Jersey;US;2020-03-11T20:00:00;40.298904;0;29;1;0;0;undefined
+0;Unassigned;New Mexico;US;2020-03-11T20:00:00;34.840515;0;10;0;0;0;undefined
+0;Unassigned;New York;US;2020-03-11T20:00:00;42.165726;0;421;0;0;0;undefined
+0;Unassigned;North Carolina;US;2020-03-11T20:00:00;35.630066;0;17;0;0;0;undefined
+0;Unassigned;North Dakota;US;2020-03-11T20:00:00;47.528912;0;1;0;0;0;undefined
+0;Unassigned;Ohio;US;2020-03-11T20:00:00;40.388783;0;13;0;0;0;undefined
+0;Unassigned;Oklahoma;US;2020-03-11T20:00:00;35.565342;0;2;0;0;0;undefined
+0;Unassigned;Oregon;US;2020-03-11T20:00:00;44.572021;0;30;0;0;0;undefined
+0;Unassigned;Pennsylvania;US;2020-03-11T20:00:00;40.590752;0;41;0;0;0;undefined
+0;Unassigned;Rhode Island;US;2020-03-11T20:00:00;41.680893;0;14;0;0;0;undefined
+0;Unassigned;South Carolina;US;2020-03-11T20:00:00;33.856892;0;13;0;0;0;undefined
+0;Unassigned;South Dakota;US;2020-03-11T20:00:00;44.299782;0;8;1;0;0;undefined
+0;Unassigned;Tennessee;US;2020-03-11T20:00:00;35.747845;0;26;0;0;0;undefined
+0;Unassigned;Texas;US;2020-03-11T20:00:00;31.054487;0;43;0;0;0;undefined
+0;Unassigned;Utah;US;2020-03-11T20:00:00;40.150032;0;9;0;0;0;undefined
+0;Unassigned;Vermont;US;2020-03-11T20:00:00;44.045876;0;2;0;0;0;undefined
+0;Unassigned;Virginia;US;2020-03-11T20:00:00;37.769337;0;30;0;0;0;undefined
+0;Unassigned;Washington;US;2020-03-11T20:00:00;47.400902;0;568;37;1;0;undefined
+0;Unassigned;West Virginia;US;2020-03-11T20:00:00;38.491226;0;0;0;0;0;undefined
+0;Unassigned;Wisconsin;US;2020-03-11T20:00:00;44.268543;0;19;0;1;0;undefined
+0;Unassigned;Wyoming;US;2020-03-11T20:00:00;42.755966;0;1;0;0;0;undefined
+0;Unassigned;undefined;Vietnam;2020-03-11T20:00:00;14.0583;0;47;0;16;0;undefined
+0;Unassigned;undefined;Mongolia;2020-03-11T20:00:00;46.8625;0;1;0;0;0;undefined
+0;Unassigned;undefined;Jamaica;2020-03-11T20:00:00;18.1096;0;8;0;0;0;undefined
+0;Unassigned;undefined;Afghanistan;2020-03-11T20:00:00;33;0;7;0;0;0;undefined
+0;Unassigned;undefined;Monaco;2020-03-11T20:00:00;43.7333;0;2;0;0;0;undefined
+0;Unassigned;undefined;Liechtenstein;2020-03-11T20:00:00;47.14;0;1;0;0;0;undefined
+0;Unassigned;undefined;Guyana;2020-03-11T20:00:00;5;0;1;1;0;0;undefined
+0;Unassigned;undefined;Taiwan*;2020-03-11T20:00:00;23.7;0;50;1;20;0;undefined
