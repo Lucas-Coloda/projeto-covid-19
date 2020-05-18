@@ -160,7 +160,6 @@ public class Separator {
 	}
 	private static void writeGlobalFile(List<List<List<String>>> files) throws IOException {	
 		FileWriter fileWriter = new FileWriter(WRITE_PATH + "/" + "all_data.csv");
-		fileWriter.append(HEADER);
 		
 		for (List<List<String>> file : files) {
 			for (List<String> row : file) {
