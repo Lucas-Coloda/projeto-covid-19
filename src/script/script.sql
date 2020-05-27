@@ -17,6 +17,10 @@ drop table ds_estado_provincia;
 drop table ds_pais_regiao;
 
 */
+-- Necessario substituir o 'C:\dev\' para o seu path do projeto java
+create or replace directory dir as 'C:\dev\projeto-covid\src\dataResult\';
+-- Corrige formato de data para o padrao especificado
+ALTER SESSION SET NLS_DATE_FORMAT = 'DD/MM/YYYY';
 
 create sequence seq_ds_mes;
 create sequence seq_ds_semana;
@@ -93,10 +97,6 @@ create table ds_situacao_covid (
 );
 
 drop table external_table;
--- Necessario substituir o 'C:\dev\' para o seu path do projeto java
-create or replace directory dir as 'C:\dev\projeto-covid\src\dataResult\';
--- Corrige formato de data para o padrao especificado
-ALTER SESSION SET NLS_DATE_FORMAT = 'DD/MM/YYYY';
 
 create table external_table (
     FIPS varchar(100),
